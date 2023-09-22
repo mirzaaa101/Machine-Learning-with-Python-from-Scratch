@@ -7,7 +7,7 @@ Welcome to the "Machine Learning with Python from Scratch" repository! In this p
 - [Algorithms](#algorithms)
 - [Project Structure](#project-structure)
 - [Usage](#usage)
-- [Author Name](#author-name)
+- [Author Name](#author)
 
 ## Algorithms
 
@@ -49,5 +49,5 @@ Clone the repository to your local machine:
    ```bash
    git clone https://github.com/mirzaaa101e/Machine-Learning-with-Python-from-Scratch.git
 
-## Author Name
-Author: Mirza Abbas Uddin
+## Author
+**Author:** Mirza Abbas Uddin
