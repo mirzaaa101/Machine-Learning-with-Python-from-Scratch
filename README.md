@@ -7,7 +7,7 @@ Welcome to the "Machine Learning with Python from Scratch" repository! In this p
 - [Algorithms](#algorithms)
 - [Project Structure](#project-structure)
 - [Usage](#usage)
-- [Author Name](#author)
+- [Author](#author)
 
 ## Algorithms
 
