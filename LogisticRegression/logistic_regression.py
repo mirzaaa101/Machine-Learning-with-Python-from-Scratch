@@ -5,7 +5,7 @@ def sigmoid(x):
     return value
 
 
-class LogisticRegression():
+class LogisticRegression:
     def __init__(self, lr=0.1, max_iters=1000):
         self.lr = lr
         self.max_iters = max_iters
