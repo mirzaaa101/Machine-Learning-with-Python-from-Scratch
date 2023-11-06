@@ -33,7 +33,6 @@ The project structure is organized as follows:
 - `Folder(algorithm_name)/`: Contains the implementation of each machine learning algorithm.
    - `algorithm_name.py`: Implementation of the algorithm from scratch.
    - `main.py`: Fit the implemented model with data and chcek accrucy.
-   - `data/`: Sample Sklearn datasets used for testing and experimentation.
    - `Using Sklearn/`: Implementation of the algorithm using scikit-learn for comparison.
 
 - `examples/`: Provides usage examples and sample scripts demonstrating the algorithms.
